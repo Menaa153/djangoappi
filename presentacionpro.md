@@ -27,16 +27,16 @@
 ---
 
 ## Software Open Source 
-[<image src="https://cdn.hashnode.com/res/hashnode/image/upload/v1636780056963/dmjGacgxw.png" alt="django" width='110' height='60'>](https://www.djangoproject.com/) Django
+[<image src="https://cdn.hashnode.com/res/hashnode/image/upload/v1636780056963/dmjGacgxw.png" alt="django" width='110' height='60'>](https://www.djangoproject.com/)
 ### Caracteristicas de Django
   - ORM
   - Adminstrador de bases de datos
   - Middleware (Agregar funcionalidades como autenticación)
-  - Plantillas (permite separar código HTML de la lógica
+  - Plantillas (permite separar código HTML de la lógica)
   - Gran cantidad de medidas de seguridad
   - Escalabilidad
---
-[<image src="https://blog.tiraquelibras.com/wp-content/uploads/2019/08/Flask.png" alt="flask" width="110" height="60">](https://flask.palletsprojects.com/en/2.2.x/) Flask
+
+[<image src="https://blog.tiraquelibras.com/wp-content/uploads/2019/08/Flask.png" alt="flask" width="110" height="60">](https://flask.palletsprojects.com/en/2.2.x/)
 ### Caracteristicas de Flask
   - Ligereza
   - Flexibilidad
@@ -45,7 +45,7 @@
   - No impone una estructura
   - Es un microframework (adecuado para proyectos pequeños)
 
-[<image src="https://blog.desdelinux.net/wp-content/uploads/2022/04/postgresql.png" alt="postgresql" width="150" height="60">](https://www.postgresql.org/) PostgreeSQL
+[<image src="https://blog.desdelinux.net/wp-content/uploads/2022/04/postgresql.png" alt="postgresql" width="150" height="60">](https://www.postgresql.org/)
 ### Caracteristicas de PostgreSQL
   - Escalable
   - Soporta transacciones ACID
