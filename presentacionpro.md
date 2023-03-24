@@ -11,7 +11,7 @@
   - Reportes gráficos de estadísticas de ventas
   - Reportes gráficos de estadísticas de productos
  - - -
-[<image src="https://joinposter.mx/i/site/poster-logo@2x.png" alt="Poster" width = '120' height = '40'>](https://joinposter.mx/)
+[<image src="https://joinposter.mx/i/site/poster-logo@2x.png" alt="Poster" width = '150' height = '40'>](https://joinposter.mx/)
 ### Características de Poster
   - Control de stock (ingredientes)
   - análisis de rendimiento de menús
@@ -35,7 +35,7 @@
   - Plantillas (permite separar código HTML de la lógica
   - Gran cantidad de medidas de seguridad
   - Escalabilidad
-
+-
 [<image src="https://blog.tiraquelibras.com/wp-content/uploads/2019/08/Flask.png" alt="flask" width="110" height="60">](https://flask.palletsprojects.com/en/2.2.x/) Flask
 ### Caracteristicas de Flask
   - Ligereza
