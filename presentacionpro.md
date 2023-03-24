@@ -18,7 +18,7 @@
   - No impone una estructura
   - Es un microframework (adecuado para proyectos pequeños)
 
-[<image src="https://www.turnkeylinux.org/files/images/postgresql-logo-for-blog.png" alt="flask" width="110" height="60">](https://www.postgresql.org/)
+[<image src="https://blog.desdelinux.net/wp-content/uploads/2022/04/postgresql.png" alt="postgresql" width="130" height="60">](https://www.postgresql.org/)
 ### Caracteristicas de PostgreSQL
   - Escalable
   - Soporta transacciones ACID
@@ -27,18 +27,19 @@
   - Ofrece múltiples características avanzadas (soporte para JSON)
   - Tiene una gran comunidad de usuarios
 
+---
 
 # Librerias disponibles
 ## Matplotlib
    - Creación y manipulacion de datos
    - Amplia gama de gráficos así como personalización
-### Pandas
+## Pandas
    - Permite manipular datos y analizarlos de manera fácil y eficiente
    - Proporciona la estructura de datos dataFrame útil para trabajar con datos y tabulares
    - Funciones de limpieza de datos
    - Funciones como filtrar, transformar, agregar datos
    - Importación y exportación de datos en formatos como CSV, Excel, SQL
-#### SQLAlchemy (Si se implementa Flask)
+## SQLAlchemy (Si se implementa Flask)
    - Capa ORM
    - Soporta multiples bases de datos
    - Funciones de agregación y filtro
