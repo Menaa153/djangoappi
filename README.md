@@ -32,4 +32,3 @@ pip install -r requirements.txt
 # Ingresar a la carpeta foodticket y ejecutar
 py manage.py runserver
 ```
-
